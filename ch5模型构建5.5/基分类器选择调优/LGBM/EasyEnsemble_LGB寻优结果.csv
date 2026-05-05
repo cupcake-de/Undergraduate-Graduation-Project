@@ -1,0 +1,2 @@
+﻿约束满足,EasyEnsemble_n_estimators,LightGBM_max_depth,LightGBM_learning_rate,LightGBM_n_estimators,Accuracy,Precision,Recall,F1-Score,ROC-AUC,PR-AUC,单样本推理时长(秒),内存占用(MB),内存占比(%)
+是,15,4,0.0402,100,0.6647,0.0188,0.7091,0.0367,0.7555,0.08,4.6e-05,1.65,0.0103

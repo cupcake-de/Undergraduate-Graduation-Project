@@ -1,0 +1,2 @@
+﻿约束满足,EasyEnsemble_n_estimators,CatBoost_depth,CatBoost_learning_rate,CatBoost_iterations,Accuracy,Precision,Recall,F1-Score,ROC-AUC,PR-AUC,单样本推理时长(秒),内存占用(MB),内存占比(%)
+是,15,8,0.0262,100,0.5723,0.017,0.8182,0.0334,0.7446,0.0657,1.9e-05,6.25,0.0388

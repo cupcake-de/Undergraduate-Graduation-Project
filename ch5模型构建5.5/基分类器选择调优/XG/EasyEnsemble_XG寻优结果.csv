@@ -1,0 +1,2 @@
+﻿约束满足,EasyEnsemble_n_estimators,XGBoost_max_depth,XGBoost_learning_rate,XGBoost_n_estimators,Accuracy,Precision,Recall,F1-Score,ROC-AUC,PR-AUC,单样本推理时长(秒),内存占用(MB),内存占比(%)
+是,20,7,0.0194,100,0.6363,0.0196,0.8,0.0383,0.7778,0.0834,4.4e-05,1.65,0.0103
